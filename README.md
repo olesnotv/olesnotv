@@ -1,6 +1,7 @@
 # 💫 About Me:
-# 👾 olesno
-> “Are you a 0 or a 1?” – *Mr. Robot*<br><br>Hi, I'm **olesno**, a future **cybersecurity engineer in training** with a passion for understanding how systems work — and how they can fail.  <br>I believe that security isn’t just about defense; it’s about curiosity, logic, and ethics.
+> “Are you a 0 or a 1?” – *Mr. Robot*
+
+Hi, I'm **olesno**, a future **cybersecurity engineer in training** with a passion for understanding how systems work — and how they can fail.  <br>I believe that security isn’t just about defense; it’s about curiosity, logic, and ethics.
 ### 🧩 About me
 - 🔭 Currently exploring the fundamentals of **HTML**, **CSS**, and **Lua**
 - 🎯 Aspiring to specialize in **cybersecurity engineering** and **ethical hacking**
